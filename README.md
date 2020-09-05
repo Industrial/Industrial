@@ -14,6 +14,6 @@ TODO: List skills by making badges. Values should be amount of years.
 
 If you would like to make a donation to keep me going, I accept BTC.
 
-![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://img.shields.io/badge/Bitcoin-0.001-brightgreen?style=plastic&logo=bitcoin)
+![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://img.shields.io/badge/Bitcoin-0.001-brightgreen?style=flat&logo=bitcoin)
 
 ![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
