@@ -11,3 +11,9 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 TODO: List skills by making badges. Values should be amount of years.
 
 ## Donations
+
+If you would like to make a donation to keep me going, I accept BTC.
+
+![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://img.shields.io/badge/Bitcoin-0.001-brightgreen?style=plastic&logo=bitcoin)
+
+![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
