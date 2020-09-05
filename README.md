@@ -8,29 +8,29 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ## Skills
 
-![](https://img.shields.io/badge/JavaScript-15-blue?style=flat)
-![](https://img.shields.io/badge/NodeJS-10-blue?style=flat)
-![](https://img.shields.io/badge/React-5-blue?style=flat)
-![](https://img.shields.io/badge/Redux-5-blue?style=flat)
-![](https://img.shields.io/badge/SSR-5-blue?style=flat)
-![](https://img.shields.io/badge/Mocha-7-blue?style=flat)
-![](https://img.shields.io/badge/Jest-5-blue?style=flat)
-![](https://img.shields.io/badge/Enzyme-5-blue?style=flat)
-![](https://img.shields.io/badge/HTML5-6-blue?style=flat)
-![](https://img.shields.io/badge/CSS3-8-blue?style=flat)
+![https://img.shields.io/badge/JavaScript-15-blue?style=flat](https://img.shields.io/badge/JavaScript-15-blue?style=flat)
+![https://img.shields.io/badge/NodeJS-10-blue?style=flat](https://img.shields.io/badge/NodeJS-10-blue?style=flat)
+![https://img.shields.io/badge/React-5-blue?style=flat](https://img.shields.io/badge/React-5-blue?style=flat)
+![https://img.shields.io/badge/Redux-5-blue?style=flat](https://img.shields.io/badge/Redux-5-blue?style=flat)
+![https://img.shields.io/badge/SSR-5-blue?style=flat](https://img.shields.io/badge/SSR-5-blue?style=flat)
+![https://img.shields.io/badge/Mocha-7-blue?style=flat](https://img.shields.io/badge/Mocha-7-blue?style=flat)
+![https://img.shields.io/badge/Jest-5-blue?style=flat](https://img.shields.io/badge/Jest-5-blue?style=flat)
+![https://img.shields.io/badge/Enzyme-5-blue?style=flat](https://img.shields.io/badge/Enzyme-5-blue?style=flat)
+![https://img.shields.io/badge/HTML5-6-blue?style=flat](https://img.shields.io/badge/HTML5-6-blue?style=flat)
+![https://img.shields.io/badge/CSS3-8-blue?style=flat](https://img.shields.io/badge/CSS3-8-blue?style=flat)
 
-![](https://img.shields.io/badge/DevOps-7-blue?style=flat)
-![](https://img.shields.io/badge/Docker-7-blue?style=flat)
-![](https://img.shields.io/badge/Kubernetes-3-blue?style=flat)
-![](https://img.shields.io/badge/GCP-3-blue?style=flat)
-![](https://img.shields.io/badge/Azure-1-blue?style=flat)
-![](https://img.shields.io/badge/AWS-1-blue?style=flat)
+![https://img.shields.io/badge/DevOps-7-blue?style=flat](https://img.shields.io/badge/DevOps-7-blue?style=flat)
+![https://img.shields.io/badge/Docker-7-blue?style=flat](https://img.shields.io/badge/Docker-7-blue?style=flat)
+![https://img.shields.io/badge/Kubernetes-3-blue?style=flat](https://img.shields.io/badge/Kubernetes-3-blue?style=flat)
+![https://img.shields.io/badge/GCP-3-blue?style=flat](https://img.shields.io/badge/GCP-3-blue?style=flat)
+![https://img.shields.io/badge/Azure-1-blue?style=flat](https://img.shields.io/badge/Azure-1-blue?style=flat)
+![https://img.shields.io/badge/AWS-1-blue?style=flat](https://img.shields.io/badge/AWS-1-blue?style=flat)
 
-![](https://img.shields.io/badge/SQL-15-blue?style=flat)
-![](https://img.shields.io/badge/NoSQL-10-blue?style=flat)
+![https://img.shields.io/badge/SQL-15-blue?style=flat](https://img.shields.io/badge/SQL-15-blue?style=flat)
+![https://img.shields.io/badge/NoSQL-10-blue?style=flat](https://img.shields.io/badge/NoSQL-10-blue?style=flat)
 
 ## Donations
 
 Bitcoin: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
 
-![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
+![https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
