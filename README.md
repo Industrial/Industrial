@@ -1,3 +1,13 @@
+## Donations
+
+I'm having a pretty rough September. If you would like to make a donation, which I will use for :bread: :kiwi_fruit: :milk_glass:, you can do so via Donorbox or Bitcoin. Thank you very much :heart:.
+
+[![Donorbox](https://img.shields.io/badge/Donorbox-€10-green?style=flat)](https://donorbox.org/september-2020)
+
+Bitcoin: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
+
+[![Alt text](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
+
 ## About
 
 Hi, I'm Tom Wieland.
@@ -26,13 +36,3 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 [![SQL](https://img.shields.io/badge/SQL-15-blue?style=flat)](https://img.shields.io/badge/SQL-15-blue?style=flat)
 [![NoSQL](https://img.shields.io/badge/NoSQL-10-blue?style=flat)](https://img.shields.io/badge/NoSQL-10-blue?style=flat)
-
-## Donations
-
-I'm having a pretty rough September. If you would like to make a donation, which I will use for :bread: :kiwi_fruit: :milk_glass:, you can do so via Donorbox or Bitcoin. Thank you very much :heart:.
-
-[![Donorbox](https://img.shields.io/badge/Donorbox-€10-green?style=flat)](https://donorbox.org/september-2020)
-
-Bitcoin: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
-
-[![Alt text](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
