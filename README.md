@@ -31,6 +31,6 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ## Donations
 
-![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://img.shields.io/badge/Bitcoin-0.001-brightgreen?style=flat&logo=bitcoin)
+Bitcoin: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
 
 ![bitcoin:1EWzn6VpB98hUobMfDitnaikGagm15M9aN?amount=0.001](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
