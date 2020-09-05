@@ -29,7 +29,7 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ## Donations
 
-I'm having a pretty rough September. If you would like to make a donation, which I will use to sustain myself, you can do so via Donorbox or Bitcoin. Thank you very much.
+I'm having a pretty rough September. If you would like to make a donation, which I will use for :bread: :kiwi_fruit: :milk_glass:, you can do so via Donorbox or Bitcoin. Thank you very much :heart:.
 
 [![Donorbox](https://img.shields.io/badge/Donorbox-€10-green?style=flat)](https://donorbox.org/september-2020)
 
