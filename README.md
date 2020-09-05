@@ -1,6 +1,4 @@
-# Industrial
-
-## About me
+## About
 
 Hi, I'm Tom Wieland.
 
