@@ -1,15 +1,14 @@
 ## Donations
 
-I'm having a pretty rough time surviving right now. I don't have a job and
-I'm running out of time. If you would like to make a donation, which I will
-use for :bread: :kiwi_fruit: :milk_glass:, you can do so via Donorbox or
-Bitcoin. Thank you very much :heart:.
+I'm having a pretty rough time surviving right now. I don't have a job and I'm running out of time. If you would like to make a donation, which I will use for :bread: :kiwi_fruit: :milk_glass:, you can do so via **Donorbox** or **Bitcoin**. Thank you very much :heart:. If you make a donation and leave a message with **any** charity of your choice, I will list your name here and donate 2x your amount to that charity before the end of 2020!
 
-[![Donorbox](https://img.shields.io/badge/Donorbox-€10-green?style=flat)](https://donorbox.org/september-2020)
+| Donorbox (iDEAL) | Bitcoin |
+|------------------|---------|
+| [![Donorbox](https://img.shields.io/badge/Donorbox-€10-green?style=flat)](https://donorbox.org/september-2020) | 1EWzn6VpB98hUobMfDitnaikGagm15M9aN |
 
-Bitcoin: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
-
-[![Alt text](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)](https://raw.githubusercontent.com/Industrial/Industrial/master/bitcoin-donation.png)
+| Name | Amount | Charity |
+|------|--------|---------|
+| None | None   | None    |
 
 ## About
 
