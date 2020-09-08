@@ -1,5 +1,3 @@
-## Donations
-
 I'm having a pretty rough time surviving right now. I don't have a job and I'm running out of time. If you would like to make a donation, which I will use for :bread: :kiwi_fruit: :milk_glass:, you can do so via **Donorbox** or **Bitcoin**. Thank you very much :heart:.
 
 | Donorbox (iDEAL) | Bitcoin |
