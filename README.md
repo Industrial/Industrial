@@ -1,5 +1,3 @@
-## About
-
 Hi, I'm Tom Wieland.
 
 I am a Senior Full Stack Developer with a decade's worth of experience on
