@@ -1,6 +1,9 @@
 # Industrial
 
-Hi, I'm Tom Wieland, known on the interwebs as Industrial. It refers to the [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) and [several](https://en.wikipedia.org/wiki/Industrial_metal) [derivatives](https://en.wikipedia.org/wiki/Power_noise).
+Hi, I'm Tom Wieland, known on the interwebs as Industrial. It refers to the
+music [Genre](https://en.wikipedia.org/wiki/Industrial_music) and
+[Several](https://en.wikipedia.org/wiki/Industrial_metal)
+[Derivatives](https://en.wikipedia.org/wiki/Power_noise).
 
 ## Profession
 
