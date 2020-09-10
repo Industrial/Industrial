@@ -1,4 +1,8 @@
-Hi, I'm Tom Wieland.
+Hi, I'm Tom Wieland, known on the interwebs as Industrial. It refers to the [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) and [several](https://en.wikipedia.org/wiki/Industrial_metal) [derivatives](https://en.wikipedia.org/wiki/Power_noise).
+
+It has been my
+nickname for a long time and doesn't mean anything, so don't put too much
+thought into it.
 
 I am a Senior Full Stack Developer with a decade's worth of experience on
 projects; architecting, designing, building, and delivering highly available
