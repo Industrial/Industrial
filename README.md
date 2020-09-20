@@ -5,7 +5,7 @@ a work in progress. The URL, Name and features will change soon (Charts, Algorit
 
 # Industrial
 
-Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. These days I'm banging my head to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) :sign of the horns:.
+Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. These days I'm banging my head to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) :metal:.
 
 ## Profession
 
