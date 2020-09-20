@@ -1,4 +1,4 @@
-## [Crypto App](https://static-site-starter-kit.vercel.app/)
+## [id-crypto](https://id-crypto.vercel.app/)
 
 It's a work in progress. The URL, Name and features will change soon:
 - Charts
