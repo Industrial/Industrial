@@ -8,8 +8,6 @@ It's a work in progress. The URL, Name and features will change soon:
 - Backtests (How does an algorithm perform over X time)
 - Slack / Discord Alerts
 
-I'm a professional engineer, not a stock/crypto trader, economist or mathematician so any help is much appreciated!
-
 # Industrial
 
 Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :grin: :metal: !
