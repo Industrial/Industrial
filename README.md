@@ -1,6 +1,7 @@
 ## [id-crypto](https://id-crypto.vercel.app/)
 
 It's a work in progress. The URL, Name and features will change soon:
+- Move from Vercel to Google Cloud Platform (Free Tier) with Serverless Framework
 - Charts
 - Algorithms
 - Live Charts
