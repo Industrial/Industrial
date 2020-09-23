@@ -1,14 +1,3 @@
-## [id-crypto](https://id-crypto.vercel.app/)
-
-It's a work in progress. The URL, Name and features will change soon:
-- Move from Vercel to Google Cloud Platform (Free Tier) with Serverless Framework
-- Charts
-- Algorithms
-- Live Charts
-- Trading Signals (When to Buy / Sell)
-- Backtests (How does an algorithm perform over X time)
-- Slack / Discord Alerts
-
 # Industrial
 
 Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :grin: :metal: !
