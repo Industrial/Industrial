@@ -2,6 +2,9 @@
 
 Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :grin: :metal: !
 
+**Email**: tom.wieland@gmail.com
+**Discord**: Industrial#7004
+
 ## Profession
 
 I am a Senior Full Stack Developer with a decade's worth of experience on
