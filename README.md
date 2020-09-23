@@ -1,21 +1,17 @@
-# Industrial
+## Industrial
 
-Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :grin: :metal: !
+Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like a lot. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :metal: :grin: :metal:
 
-**Email**: tom.wieland@gmail.com
-**Discord**: Industrial#7004
+## Contact
+
+| Network | Account               | Purpose      |
+|---------|-----------------------|--------------|
+| Email   | tom.wieland@gmail.com | Professional |
+| Discord | Industrial#7004       | Personal     |
 
 ## Profession
 
-I am a Senior Full Stack Developer with a decade's worth of experience on
-projects; architecting, designing, building, and delivering highly available
-and scalable full-stack solutions - improving current products/processes,
-adding new features, and building new products. I build websites, apps,
-platforms, interfaces and dashboards for different devices and networked
-services to handle traffic at scale; directing deliverables through all
-aspects of the software development lifecycle. I am an active opensource
-developer; exploring opportunities in Machine Learning and an avid learner of
-new tech stack and industry best practices.
+I am a Senior Full Stack Developer with a decade's worth of experience on projects; architecting, designing, building, and delivering highly available and scalable full-stack solutions - improving current products/processes, adding new features, and building new products. I build websites, apps, platforms, interfaces and dashboards for different devices and networked services to handle traffic at scale; directing deliverables through all aspects of the software development lifecycle. I am an active opensource developer; exploring opportunities in Machine Learning and an avid learner of new tech stack and industry best practices.
 
 ## Skills
 
@@ -44,7 +40,7 @@ new tech stack and industry best practices.
 
 ### Personality
 
-INTJ-A
+[INTJ-A](https://www.16personalities.com/intj-personality)
 
 ### Political
 
