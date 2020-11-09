@@ -1,11 +1,11 @@
 ## Industrial
 
-Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like a lot. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :metal: :grin: :metal:
+Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I used to like a lot. I'm not going to change my nickname to [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore) ... :metal: :grin: :metal: or Synthwave :sunglasses: or [Justin Bieber](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Contact
 
 | Network | Account               | Purpose      |
-|---------|-----------------------|--------------|
+| ------- | --------------------- | ------------ |
 | Email   | tom.wieland@gmail.com | Professional |
 | Discord | Industrial#7004       | Personal     |
 
