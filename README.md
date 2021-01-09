@@ -4,10 +4,11 @@ Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [M
 
 ## Contact
 
-| Network | Account               | Purpose      |
-| ------- | --------------------- | ------------ |
-| Email   | tom.wieland@gmail.com | Professional |
-| Discord | Industrial#7004       | Personal     |
+| Network   | Account                                               | Purpose      |
+| --------- | ----------------------------------------------------- | ------------ |
+| Email     | tom.wieland@gmail.com                                 | Professional |
+| Discord   | Industrial#7004                                       | Personal     |
+| Instagram | [\_tom_wieland\_](http://instagram.com/_tom_wieland_) | Personal     |
 
 ## Profession
 
