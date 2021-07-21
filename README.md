@@ -20,11 +20,8 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 [![React](https://img.shields.io/badge/React-5-blue?style=flat)](https://img.shields.io/badge/React-5-blue?style=flat)
 [![Redux](https://img.shields.io/badge/Redux-5-blue?style=flat)](https://img.shields.io/badge/Redux-5-blue?style=flat)
 [![SSR](https://img.shields.io/badge/SSR-5-blue?style=flat)](https://img.shields.io/badge/SSR-5-blue?style=flat)
-[![Mocha](https://img.shields.io/badge/Mocha-7-blue?style=flat)](https://img.shields.io/badge/Mocha-7-blue?style=flat)
 [![Jest](https://img.shields.io/badge/Jest-5-blue?style=flat)](https://img.shields.io/badge/Jest-5-blue?style=flat)
 [![Enzyme](https://img.shields.io/badge/Enzyme-5-blue?style=flat)](https://img.shields.io/badge/Enzyme-5-blue?style=flat)
-[![HTML5](https://img.shields.io/badge/HTML5-6-blue?style=flat)](https://img.shields.io/badge/HTML5-6-blue?style=flat)
-[![CSS3](https://img.shields.io/badge/CSS3-8-blue?style=flat)](https://img.shields.io/badge/CSS3-8-blue?style=flat)
 
 [![DevOps](https://img.shields.io/badge/DevOps-7-blue?style=flat)](https://img.shields.io/badge/DevOps-7-blue?style=flat)
 [![Docker](https://img.shields.io/badge/Docker-7-blue?style=flat)](https://img.shields.io/badge/Docker-7-blue?style=flat)
