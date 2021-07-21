@@ -7,7 +7,7 @@ Hi, I'm Tom Wieland. On the Interwebz, I go by the name of Industrial. It's a [M
 | Network   | Account                                               |
 | --------- | ----------------------------------------------------- |
 | Email     | tom.wieland@gmail.com                                 |
-| Matrix    | @industrial:matrix.org                                |
+| Matrix    | [@industrial:matrix.org](https://matrix.to/#/@industrial:matrix.org) |
 
 ## Profession
 
