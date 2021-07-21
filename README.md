@@ -48,4 +48,5 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ## Donations
 
-BTC: 1EWzn6VpB98hUobMfDitnaikGagm15M9aN
+BTC: [1EWzn6VpB98hUobMfDitnaikGagm15M9aN](https://www.blockchain.com/btc/address/1EWzn6VpB98hUobMfDitnaikGagm15M9aN)
+USDT: [0x201ac4b82de4efadfcc7ac929cd6d8c2da7adfa3](https://www.blockchain.com/eth/address/0x201ac4b82de4efadfcc7ac929cd6d8c2da7adfa3)
