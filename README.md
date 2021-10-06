@@ -41,7 +41,7 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ### Political
 
-[![Political Compass](https://www.politicalcompass.org/chart?ec=-4.75&soc=-4.1)](https://www.politicalcompass.org)
+[![Political Compass](https://www.politicalcompass.org/chart?ec=-9.38&soc=-7.9)](https://www.politicalcompass.org)
 
 ## Donations
 
