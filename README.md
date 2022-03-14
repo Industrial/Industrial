@@ -40,7 +40,7 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ### Political
 
-[![Political Compass](https://www.politicalcompass.org/analysis2?ec=-9.38&soc=-7.9)](https://raw.githubusercontent.com/Industrial/Industrial/master/chart.png)
+[![Chart](https://raw.githubusercontent.com/Industrial/Industrial/master/chart.png)](https://www.politicalcompass.org/analysis2?ec=-9.38&soc=-7.9)
 
 ## Donations
 
