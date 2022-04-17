@@ -6,8 +6,11 @@ Hi, I'm Tom Wieland (he/him). On the Interwebz, I go by the name of Industrial. 
 
 | Network   | Account                                               |
 | --------- | ----------------------------------------------------- |
-| Email     | tom.wieland@gmail.com                                 |
+| Email     | tom.wieland@gmail.com |
 | Matrix    | [@industrial:matrix.org](https://matrix.to/#/@industrial:matrix.org) |
+| YouTube   | https://www.youtube.com/channel/UCfSCxWmv6yH8AE3m-lvVX4w |
+| Discord   | https://discord.gg/F3E35cx |
+| Twitch    | https://twitch.tv/Industri4l |
 
 ## Profession
 
