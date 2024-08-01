@@ -43,4 +43,10 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 
 ### Political
 
-[![Chart](https://raw.githubusercontent.com/Industrial/Industrial/master/chart.png)](https://www.politicalcompass.org/analysis2?ec=-9.38&soc=-7.9)
+[![Chart](https://raw.githubusercontent.com/Industrial/Industrial/master/chart.png)](https://www.politicalcompass.org/analysis2?ec=-9.63&soc=-8.36)
+
+## Donations
+
+| Chain | Address |
+|-------|---------|
+| XMR | 85mv39nwVSgRuah8YMbLQUb6EQpSAp9d2EQETbCwifAwNgegrumkR2hELTiLnvEi4tPRNXF7sgJyYHdiTXyNo1i3Kz319BD |
