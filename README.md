@@ -1,7 +1,3 @@
-## Industrial
-
-Hi, I'm Tom Wieland (he/him). On the Interwebz, I go by the name of Industrial. It's a [Music Genre](https://en.wikipedia.org/wiki/Industrial_music) I like. I'm also into [Hardcore Metal](https://en.wikipedia.org/wiki/Metalcore), Synthwave and [Justin Bieber](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
-
 ## Contact
 
 | Network   | Account                                               |
@@ -10,11 +6,10 @@ Hi, I'm Tom Wieland (he/him). On the Interwebz, I go by the name of Industrial. 
 | Matrix    | [@industrial:matrix.org](https://matrix.to/#/@industrial:matrix.org) |
 | YouTube   | https://www.youtube.com/channel/UCfSCxWmv6yH8AE3m-lvVX4w |
 | Discord   | https://discord.gg/F3E35cx |
-| Twitch    | https://twitch.tv/Industri4l |
 
 ## Profession
 
-I am a Senior Full Stack Developer with a decade's worth of experience on projects; architecting, designing, building, and delivering highly available and scalable full-stack solutions - improving current products/processes, adding new features, and building new products. I build websites, apps, platforms, interfaces and dashboards for different devices and networked services to handle traffic at scale; directing deliverables through all aspects of the software development lifecycle. I am an active opensource developer; exploring opportunities in Machine Learning and an avid learner of new tech stack and industry best practices.
+I am a Senior Full Stack Developer with two decade's worth of experience on projects; architecting, designing, building, and delivering highly available and scalable full-stack solutions - improving current products/processes, adding new features, and building new products. I build websites, apps, platforms, interfaces and dashboards for different devices and networked services to handle traffic at scale; directing deliverables through all aspects of the software development lifecycle. I am an active opensource developer; exploring opportunities in Machine Learning and an avid learner of new tech stack and industry best practices.
 
 ## Skills
 
@@ -40,10 +35,6 @@ I am a Senior Full Stack Developer with a decade's worth of experience on projec
 ### Personality
 
 [INTJ-A](https://www.16personalities.com/intj-personality)
-
-### Political
-
-[![Chart](https://raw.githubusercontent.com/Industrial/Industrial/master/chart.png)](https://www.politicalcompass.org/analysis2?ec=-9.63&soc=-8.36)
 
 ## Donations
 
