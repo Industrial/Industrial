@@ -13,22 +13,19 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ## Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-16-blue?style=flat)](https://img.shields.io/badge/JavaScript-16-blue?style=flat)
-[![NodeJS](https://img.shields.io/badge/NodeJS-11-blue?style=flat)](https://img.shields.io/badge/NodeJS-11-blue?style=flat)
-[![React](https://img.shields.io/badge/React-6-blue?style=flat)](https://img.shields.io/badge/React-6-blue?style=flat)
-[![Redux](https://img.shields.io/badge/Redux-6-blue?style=flat)](https://img.shields.io/badge/Redux-6-blue?style=flat)
-[![NextJS](https://img.shields.io/badge/NextJS-1-blue?style=flat)](https://img.shields.io/badge/NextJS-1-blue?style=flat)
-[![Jest](https://img.shields.io/badge/Jest-6-blue?style=flat)](https://img.shields.io/badge/Jest-6-blue?style=flat)
-[![Enzyme](https://img.shields.io/badge/Enzyme-6-blue?style=flat)](https://img.shields.io/badge/Enzyme-6-blue?style=flat)
+[![JavaScript](https://img.shields.io/badge/JavaScript-20-blue?style=flat)](https://img.shields.io/badge/JavaScript-20-blue?style=flat)
+[![NodeJS](https://img.shields.io/badge/NodeJS-15-blue?style=flat)](https://img.shields.io/badge/NodeJS-15-blue?style=flat)
+[![React](https://img.shields.io/badge/React-10-blue?style=flat)](https://img.shields.io/badge/React-10-blue?style=flat)
+[![Redux](https://img.shields.io/badge/Redux-10-blue?style=flat)](https://img.shields.io/badge/Redux-10-blue?style=flat)
+[![NextJS](https://img.shields.io/badge/NextJS-5-blue?style=flat)](https://img.shields.io/badge/NextJS-5-blue?style=flat)
 
-[![DevOps](https://img.shields.io/badge/DevOps-8-blue?style=flat)](https://img.shields.io/badge/DevOps-8-blue?style=flat)
-[![Docker](https://img.shields.io/badge/Docker-8-blue?style=flat)](https://img.shields.io/badge/Docker-8-blue?style=flat)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-4-blue?style=flat)](https://img.shields.io/badge/Kubernetes-4-blue?style=flat)
-[![GCP](https://img.shields.io/badge/GCP-4-blue?style=flat)](https://img.shields.io/badge/GCP-4-blue?style=flat)
-[![AWS](https://img.shields.io/badge/AWS-2-blue?style=flat)](https://img.shields.io/badge/AWS-2-blue?style=flat)
+[![DevOps](https://img.shields.io/badge/DevOps-12-blue?style=flat)](https://img.shields.io/badge/DevOps-12-blue?style=flat)
+[![Docker](https://img.shields.io/badge/Docker-12-blue?style=flat)](https://img.shields.io/badge/Docker-12-blue?style=flat)
+[![GCP](https://img.shields.io/badge/GCP-8-blue?style=flat)](https://img.shields.io/badge/GCP-8-blue?style=flat)
+[![AWS](https://img.shields.io/badge/AWS-8-blue?style=flat)](https://img.shields.io/badge/AWS-8-blue?style=flat)
 
-[![SQL](https://img.shields.io/badge/SQL-16-blue?style=flat)](https://img.shields.io/badge/SQL-16-blue?style=flat)
-[![NoSQL](https://img.shields.io/badge/NoSQL-11-blue?style=flat)](https://img.shields.io/badge/NoSQL-11-blue?style=flat)
+[![SQL](https://img.shields.io/badge/SQL-20-blue?style=flat)](https://img.shields.io/badge/SQL-20-blue?style=flat)
+[![NoSQL](https://img.shields.io/badge/NoSQL-15-blue?style=flat)](https://img.shields.io/badge/NoSQL-15-blue?style=flat)
 
 ## World Views
 
