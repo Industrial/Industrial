@@ -47,17 +47,10 @@ I’ve been building full-stack systems for about twenty years — from legacy m
 
 ## Projects
 
-### <img src="https://i.icoziv.workers.dev/icons?i=nixos" width="20" height="20" alt="NixOS" style="vertical-align: middle" /> NixOS
-
-- **[nixos-dotfiles](https://github.com/Industrial/nixos-dotfiles)** — My NixOS configuration: feature-based modules and host-specific flakes (workstation, tablet, server), managed without Home Manager for portability. Uses [devenv](https://devenv.sh/) for the development environment and includes CI for formatting, security scans, and config validation.
-
 ### <img src="https://i.icoziv.workers.dev/icons?i=rust" width="20" height="20" alt="Rust" style="vertical-align: middle" /> Rust
 
-- **[StreamWeave](https://github.com/Industrial/streamweave)** — A composable, async data-processing framework for Rust. It uses a graph-based architecture (nodes and edges) with a declarative `graph!` macro, buffer pooling and string interning for performance, and full async/await via `futures::Stream`. Built for flow-based programming with type-safe routing.
-
-### <img src="https://i.icoziv.workers.dev/icons?i=typescript" width="20" height="20" alt="TypeScript" style="vertical-align: middle" /> TypeScript
-
-- **[Reflex](https://github.com/Industrial/reflex)** — A React framework for [Deno](https://deno.land) and [Oak](https://deno.land/x/oak). Streaming SSR, no bundler (modern JavaScript/TypeScript), local vendor serving, and caching via the Deno cache. Use [create-reflex-app](https://github.com/Industrial/create-reflex-app) to get started.
+1. **[StreamWeave](https://github.com/Industrial/streamweave)**: A composable, async data-processing framework for Rust. It uses a graph-based architecture (nodes and edges) with a declarative `graph!` macro, buffer pooling and string interning for performance, and full async/await via `futures::Stream`. Built for flow-based programming with type-safe routing.
+2. **[StreamWeave Attractor](https://github.com/Industrial/streamweave-attractor)**: Tools for automating AI development and workflows—often called **Software Factories**. You describe what you want in plain language (specs); an AI coding agent runs in the background to implement and check it, with no interactive back-and-forth. This repo implements that idea on top of StreamWeave. Run workflows from a `.dot` file or the bundled example. Shipped as a Rust crate/cli or via Nix.
 
 ## Donations
 
