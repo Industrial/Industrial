@@ -13,7 +13,7 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=rust,typescript,react,nextjs,nodejs,bun,python,postgresql)
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=rust,typescript,react,nextjs,nodejs,bun,python,postgresql,git,vim,gcp,aws,azure)](https://github.com/thuongtruong109/icoziv)
 
 ## World Views
 
