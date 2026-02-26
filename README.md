@@ -13,11 +13,33 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ## Skills
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=git,vim)](https://github.com/thuongtruong109/icoziv)
+### Apps
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=rust,typescript,react,bun,python,postgresql,redis)](https://github.com/thuongtruong109/icoziv)
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /><span>Git</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /><span>Vim</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=react" width="48" height="48" alt="React" /><span>React</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=bun" width="48" height="48" alt="Bun" /><span>Bun</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><span>PostgreSQL</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=redis" width="48" height="48" alt="Redis" /><span>Redis</span></div>
+</div>
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=gcp,aws,azure,kubernetes)](https://github.com/thuongtruong109/icoziv)
+### Languages
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=rust" width="48" height="48" alt="Rust" /><span>Rust</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><span>TypeScript</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=python" width="48" height="48" alt="Python" /><span>Python</span></div>
+</div>
+
+### Cloud
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><span>GCP</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=aws" width="48" height="48" alt="AWS" /><span>AWS</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=azure" width="48" height="48" alt="Azure" /><span>Azure</span></div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem;"><img src="https://i.icoziv.workers.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><span>Kubernetes</span></div>
+</div>
 
 ## Personality
 
@@ -25,9 +47,9 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ## Projects
 
-### ![Rust](https://i.icoziv.workers.dev/icons?i=rust) Rust
+### <img src="https://i.icoziv.workers.dev/icons?i=rust" width="20" height="20" alt="Rust" style="vertical-align: middle" /> Rust
 
-- **[StreamWeave](https://github.com/Industrial/streamweave)** — A composable, async data-processing framework for Rust. It uses a graph-based architecture (nodes and edges) with a declarative `graph!` macro, buffer pooling and string interning for performance, and full async/await via `futures::Stream`. Built for flow-based programming with type-safe routing and fan-in; the core and ecosystem crates are on [crates.io](https://crates.io).
+- **[StreamWeave](https://github.com/Industrial/streamweave)** — A composable, async data-processing framework for Rust. It uses a graph-based architecture (nodes and edges) with a declarative `graph!` macro, buffer pooling and string interning for performance, and full async/await via `futures::Stream`. Built for flow-based programming with type-safe routing.
 
 ## Donations
 
