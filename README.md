@@ -15,37 +15,27 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ### Apps
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
-  <a href="https://nixos.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">NixOS</span></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Git</span></a>
-  <a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Vim</span></a>
-</div>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://nixos.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="NixOS" /><br /><b>NixOS</b></a> | <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><b>Git</b></a> | <a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /><br /><b>Vim</b></a> |
 
 ### Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=rust" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Rust</span></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=typescript" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">TypeScript</span></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=reactjs" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">React</span></a>
-  <a href="https://bun.sh/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=bun" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Bun</span></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=python" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Python</span></a>
-</div>
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br /><b>Rust</b></a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br /><b>TypeScript</b></a> | <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=reactjs" width="48" height="48" alt="React" /><br /><b>React</b></a> | <a href="https://bun.sh/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=bun" width="48" height="48" alt="Bun" /><br /><b>Bun</b></a> | <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=python" width="48" height="48" alt="Python" /><br /><b>Python</b></a> |
 
 ### Databases
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=postgresql" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">PostgreSQL</span></a>
-  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=redis" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Redis</span></a>
-</div>
+| | |
+| :---: | :---: |
+| <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br /><b>PostgreSQL</b></a> | <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br /><b>Redis</b></a> |
 
 ### Cloud
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start;">
-  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=gcp" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">GCP</span></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=amazonewebservices" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">AWS</span></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=azure" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Azure</span></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=kubernetes" width="48" height="48" alt="" /><br /><span style="display: block; text-align: center;">Kubernetes</span></a>
-</div>
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br /><b>GCP</b></a> | <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=amazonewebservices" width="48" height="48" alt="AWS" /><br /><b>AWS</b></a> | <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br /><b>Azure</b></a> | <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br /><b>Kubernetes</b></a> |
 
 ## Personality
 
