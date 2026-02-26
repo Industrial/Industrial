@@ -13,47 +13,31 @@ I’ve been building full-stack systems for about twenty years — from legacy m
 
 ## Skills
 
-### Apps
+### Must
 
-<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
-<tr>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://nixos.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="NixOS" /><br /><b>NixOS</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><b>Git</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /><br /><b>Vim</b></a></td>
-</tr>
-</table>
+<a href="https://nixos.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="NixOS" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /></a>
 
 ### Languages
 
-<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
-<tr>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br /><b>Rust</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br /><b>TypeScript</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=reactjs" width="48" height="48" alt="React" /><br /><b>React</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://bun.sh/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=bun" width="48" height="48" alt="Bun" /><br /><b>Bun</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=python" width="48" height="48" alt="Python" /><br /><b>Python</b></a></td>
-</tr>
-</table>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=rust" width="48" height="48" alt="Rust" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=reactjs" width="48" height="48" alt="React" /></a>
+<a href="https://bun.sh/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=bun" width="48" height="48" alt="Bun" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
 
 ### Databases
 
-<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
-<tr>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br /><b>PostgreSQL</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://redis.io/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br /><b>Redis</b></a></td>
-</tr>
-</table>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a>
+<a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a>
 
 ### Cloud
 
-<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
-<tr>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br /><b>GCP</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=amazonewebservices" width="48" height="48" alt="AWS" /><br /><b>AWS</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br /><b>Azure</b></a></td>
-<td style="border: none !important; text-align: center; padding: 0;"><a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br /><b>Kubernetes</b></a></td>
-</tr>
-</table>
+<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=gcp" width="48" height="48" alt="GCP" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=amazonewebservices" width="48" height="48" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a>
 
 ## Personality
 
