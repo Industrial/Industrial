@@ -15,11 +15,11 @@ I’ve been building full-stack systems for about twenty years — from legacy m
 
 ### Apps
 
-<table style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
+<table style="border: none !important; border-collapse: collapse !important; margin: 0; padding: 0;">
 <tr>
-<td style="border: none; text-align: center; padding: 0;"><a href="https://nixos.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="NixOS" /><br /><b>NixOS</b></a></td>
-<td style="border: none; text-align: center; padding: 0;"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><b>Git</b></a></td>
-<td style="border: none; text-align: center; padding: 0;"><a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /><br /><b>Vim</b></a></td>
+<td style="border: none !important; text-align: center; padding: 0;"><a href="https://nixos.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=nixos" width="48" height="48" alt="NixOS" /><br /><b>NixOS</b></a></td>
+<td style="border: none !important; text-align: center; padding: 0;"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><b>Git</b></a></td>
+<td style="border: none !important; text-align: center; padding: 0;"><a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; text-decoration: none; color: inherit;"><img src="https://i.icoziv.workers.dev/icons?i=vim" width="48" height="48" alt="Vim" /><br /><b>Vim</b></a></td>
 </tr>
 </table>
 
