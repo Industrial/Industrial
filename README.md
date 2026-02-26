@@ -51,6 +51,8 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 [![16personalities INTJ-A](https://img.shields.io/badge/16personalities-INTJ--A-2ea043)](https://www.16personalities.com/intj-personality)
 
+*Assertive Architect (INTJ-A). Imaginative and strategic; I tend to think ahead and prefer having a plan. More self-assured under pressure than the turbulent variant, but still introverted and analytical at core.*
+
 ## Projects
 
 ### <img src="https://i.icoziv.workers.dev/icons?i=nixos" width="20" height="20" alt="NixOS" style="vertical-align: middle" /> NixOS
