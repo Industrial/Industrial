@@ -9,7 +9,7 @@
 
 ## Profession
 
-I am a Senior Full Stack Developer with two decade's worth of experience on projects; architecting, designing, building, and delivering highly available and scalable full-stack solutions - improving current products/processes, adding new features, and building new products. I build websites, apps, platforms, interfaces and dashboards for different devices and networked services to handle traffic at scale; directing deliverables through all aspects of the software development lifecycle. I am an active opensource developer; exploring opportunities in Machine Learning and an avid learner of new tech stack and industry best practices.
+I’ve been building full-stack systems for about twenty years — from legacy monoliths to greenfield services, web and APIs and the usual dashboards and tooling. I care more about clear design and things that run reliably at scale than about any particular stack. I contribute to open source when it fits and keep an eye on where things are going, without treating the latest hype as the only way to build.
 
 ## Skills
 
