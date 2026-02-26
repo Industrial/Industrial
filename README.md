@@ -33,4 +33,4 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 | Chain | Address |
 |-------|---------|
-| XMR | 85mv39nwVSgRuah8YMbLQUb6EQpSAp9d2EQETbCwifAwNgegrumkR2hELTiLnvEi4tPRNXF7sgJyYHdiTXyNo1i3Kz319BD |
+| XMR | 46jQrkqqfm1GCGgrd2Wh4uM9Gp7R9CjFfSfGUq6X9cn4PEW8NrXVyhmMm77CgaNaUwMBXWJ4XubiM8iNFXUQP4ayHrVNZek |
