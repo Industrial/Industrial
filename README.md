@@ -19,11 +19,9 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=gcp,aws,azure,kubernetes)](https://github.com/thuongtruong109/icoziv)
 
-## World Views
+## Personality
 
-### Personality
-
-[INTJ-A](https://www.16personalities.com/intj-personality)
+[![16personalities INTJ-A](https://img.shields.io/badge/16personalities-INTJ--A-2ea043)](https://www.16personalities.com/intj-personality)
 
 ## Donations
 
