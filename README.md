@@ -2,10 +2,10 @@
 
 | Network   | Account                                               |
 | --------- | ----------------------------------------------------- |
-| Email     | tom.wieland@gmail.com |
+| Email     | [tom.wieland@gmail.com](mailto:tom.wieland@gmail.com) |
 | Matrix    | [@industrial:matrix.org](https://matrix.to/#/@industrial:matrix.org) |
-| YouTube   | https://www.youtube.com/channel/UCfSCxWmv6yH8AE3m-lvVX4w |
-| Discord   | https://discord.gg/F3E35cx |
+| YouTube   | [youtube.com/@derpnschmerp](https://www.youtube.com/@derpnschmerp) |
+| Discord   | [discord.gg/F3E35cx](https://discord.gg/F3E35cx) |
 
 ## Profession
 
@@ -13,7 +13,11 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 ## Skills
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=rust,typescript,react,nextjs,nodejs,bun,python,postgresql,git,vim,gcp,aws,azure)](https://github.com/thuongtruong109/icoziv)
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=git,vim)](https://github.com/thuongtruong109/icoziv)
+
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=rust,typescript,react,bun,python,postgresql,redis)](https://github.com/thuongtruong109/icoziv)
+
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=gcp,aws,azure,kubernetes)](https://github.com/thuongtruong109/icoziv)
 
 ## World Views
 
