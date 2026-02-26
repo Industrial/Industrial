@@ -23,6 +23,12 @@ I am a Senior Full Stack Developer with two decade's worth of experience on proj
 
 [![16personalities INTJ-A](https://img.shields.io/badge/16personalities-INTJ--A-2ea043)](https://www.16personalities.com/intj-personality)
 
+## Projects
+
+### ![Rust](https://i.icoziv.workers.dev/icons?i=rust) Rust
+
+- **[StreamWeave](https://github.com/Industrial/streamweave)** — A composable, async data-processing framework for Rust. It uses a graph-based architecture (nodes and edges) with a declarative `graph!` macro, buffer pooling and string interning for performance, and full async/await via `futures::Stream`. Built for flow-based programming with type-safe routing and fan-in; the core and ecosystem crates are on [crates.io](https://crates.io).
+
 ## Donations
 
 | Chain | Address |
